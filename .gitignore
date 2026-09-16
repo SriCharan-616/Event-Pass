@@ -1,0 +1,15 @@
+# Backend
+backend/target/
+backend/data/
+backend/*.log
+backend/src/main/resources/application.yml
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# IDE / OS
+.idea/
+.vscode/
+*.iml
+.DS_Store
+.claude/scheduled_tasks.lock
